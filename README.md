@@ -1,2 +1,2 @@
-# HTML-CSS-JAVA
+#LearningPath
 My Learning Path
